@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/fraguerrero/decide.svg?branch=master)](https://travis-ci.org/fraguerrero/decide) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/87e224afb14b4488834080811dee72da)](https://www.codacy.com/manual/fraguerrero/decide?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fraguerrero/decide&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/87e224afb14b4488834080811dee72da)](https://www.codacy.com/manual/fraguerrero/decide?utm_source=github.com&utm_medium=referral&utm_content=fraguerrero/decide&utm_campaign=Badge_Coverage)
 
-Plataforma voto electrónico educativa
+Plataforma voto electrónico educativa -
 =====================================
 
 El objetivo de este proyecto es implementar una plataforma de voto
